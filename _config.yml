@@ -1,13 +1,15 @@
 markdown: rdiscount
 permalink: /:title/
-url: http://lizekui.github.io/NET
-name: zkli homepage
+url: http://lizekui.github.io
+name: zkli's blog
 author: zkli
 email: lzkhitcs@gmail.com
 duoshuo: zkli
+cnzz: 1000241417
 weibo: 1954463527
+beian: ºÚACE±¸22222222ºÅ
 github: lizekui
 pygments: true
 safe: true
 paginate: 20
-about: "gitbug test!"
+about: "keep it real"
