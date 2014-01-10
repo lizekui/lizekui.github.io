@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://lizekui.github.io/NET
+name: zkli homepage
+author: zkli
+email: lzkhitcs@gmail.com
+duoshuo: zkli
+weibo: 1954463527
+github: lizekui
+pygments: true
+safe: true
+paginate: 20
+about: "gitbug test!"
