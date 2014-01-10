@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hello gitbug page heh"
+title: "2014第一篇流水账"
 categories: 屌丝的独白
 tags: 流水账
 ---
@@ -17,6 +17,10 @@ tags: 流水账
 
 来到实验室总比在寝室有趣，继续上午没完成的Github博客搭建，中间还看了看[多说](www.duoshuo.com/)、[cnzz](http://zhanzhang.cnzz.com/)、[R language](http://yanping.me/cn/blog/categories/r%E8%AF%AD%E8%A8%80/)、[YMAL](http://www.ibm.com/developerworks/cn/xml/x-1103linrr/#icomments)、[Redis](http://blog.csdn.net/linkyou/article/details/6909447)等等以前没见过的词。（喷血了，你丫一下午都在刷微博好吧！）
 
-在深感科学技术发展迅速、感慨人生易老天难老的同时，无意间看到了codepiano的一篇博客，[溯洄于时光的洪流](http://blog.codepiano.com/2013/12/31/time-to-say-goodbye/)，作者写的*不知道从什么时候，开始感觉时间不够用，于是想办法利用零碎时间来看书，成为习惯后才意识到，时间真的像海绵里面的水，只要你愿意，可以挤出来很多*，写的真好。（又情不自禁地扫了一遍）
+在深感科学技术发展迅速、感慨人生易老天难老的同时，无意间看到了codepiano的一篇博客，[溯洄于时光的洪流](http://blog.codepiano.com/2013/12/31/time-to-say-goodbye/)，作者写的
+
+**"不知道从什么时候，开始感觉时间不够用，于是想办法利用零碎时间来看书，成为习惯后才意识到，时间真的像海绵里面的水，只要你愿意，可以挤出来很多"**
+
+写的真好。（又情不自禁地扫了一遍）
 
 在校园内，如果你苦于找不到女朋友，请不要认为女生都是拜金的嫌弃你穷，请不要认为女生都是势力的不看好你的出身，更请不要认为女生都是目光短浅的看不到你的努力和光明的未来，校园不似社会有那么多黑暗，校园内的女生还是单纯的孩子，她们只是单纯的嫌弃你丑。人丑就要多读书！（屌丝自我安慰吧 = = 怎么感觉用词不当了）

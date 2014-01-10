@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hello gitbug page heh"
+title: "哈喽 世界"
 categories: 屌丝的独白
 tags: 瞎扯 还是瞎扯
 ---
