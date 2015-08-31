@@ -1,0 +1,30 @@
+---
+layout: post
+title: "2015年我要开始恶意刷绿了"
+categories: 屌丝的独白
+tags: 流水账
+---
+###引言
+**一记鸡汤**
+>一个广场舞大妈曾告诉我，如果她跳的足够快，她的孤独就追不上她；一位拾荒大叔曾经告诉我，如果他翻垃圾翻得足够仔细，便能找回丢失的自己；一位环卫工阿姨曾经告诉我，七年来她每天扫这两条街，都没扫净心中的瑕疵；一位碰瓷的大爷曾经告诉我，只要他演的够逼真，就能骗过匆匆的时光。。。。。。
+---
+###要开始刷绿了
+当然这不是股票的绿。。。什么运动让人揪心？炒股。什么比这还揪心？在中国炒股。我一个炒基金的都亏了几千块，更别提人均亏损8W的中国股民了。。。
+这里说的是Github上的“streak”，暂且这么叫吧。。这两天找工作、改个人主页，看到Github主页上Contributions一片惨白，拿不出手啊。用这种push github project page这种拙劣的手段，避免push一下垃圾代码。哈哈
+
+###这个月
+这个月真是很匆忙。积累足够的经验，要么留，要么走。晚上看着这个月的日历写一写回顾。
+
+###本来是要好好写一份notes的
+无奈事情太多了。。。阅兵DEMO演练、、Tianchi代码才写了个Class声明、、也是醉了
+
+###测试个Markdown
+	val s = "hello Markdown"
+	println( s )
+###再测试个Markdown
+『% codeblock [Java Test] [lang:Java] %』
+	public static String getPubTime(Date date) {
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH");
+		return sdf.format(date)+":00";//整点上传
+	}
+『% endcodeblock %』
