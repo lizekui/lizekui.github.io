@@ -2,6 +2,8 @@ markdown: rdiscount
 permalink: /:title/
 url: http://lizekui.github.io
 name: zkli's blog
+url_personalpage: http://ir.hit.edu.cn/~zkli/
+name_personalpage: zkli's personal page
 author: zkli
 email: lzkhitcs@gmail.com
 duoshuo: zkli
@@ -12,4 +14,4 @@ github: lizekui
 pygments: true
 safe: true
 paginate: 20
-about: "keep it real"
+about: "Remember Why You Started."
