@@ -39,7 +39,4 @@ tags: 流水账
 	println( s )
 
 ###测试个图片
-!["秋游掠影1"](http://pic1.zhimg.com/fe3d32b766b31f2bd1e1d38f2d41f958_b.jpg)
-!["秋游掠影1"](http://img5.imgtn.bdimg.com/it/u=3559897321,3765575306&fm=15&gp=0.jpg)
 ![GitHub Meaning via Zhihu](http://pic1.zhimg.com/fe3d32b766b31f2bd1e1d38f2d41f958_b.jpg "GitHub Meaning")
-![知乎图片不让外链吗？](http://img5.imgtn.bdimg.com/it/u=3559897321,3765575306&fm=15&gp=0.jpg "Zhihu")
