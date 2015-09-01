@@ -2,7 +2,7 @@
 layout: post
 title: "八月的总结"
 categories: 屌丝的独白
-tags: 日记本
+tags: 流水账
 ---
 ###导语
 

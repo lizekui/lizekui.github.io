@@ -39,4 +39,4 @@ tags: 流水账
 	println( s )
 
 ###测试个图片
-![GitHub Meaning via Zhihu](http://pic1.zhimg.com/fe3d32b766b31f2bd1e1d38f2d41f958_b.jpg "GitHub Meaning")
+![GitHub Meaning via Zhihu](http://7xlhxb.com1.z0.glb.clouddn.com/fe3d32b766b31f2bd1e1d38f2d41f958_b.jpg "GitHub Meaning")

@@ -2,7 +2,7 @@
 layout: post
 title: "哈喽 世界"
 categories: 屌丝的独白
-tags: 瞎扯 还是瞎扯
+tags: 
 ---
 
 在网上看到很多版本的萌猫，这个比较丧尸啊……
